@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|d:\\workspace\\fgw-amd201\\amd201-co1102\\tut1\\web1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|solutionrelative:web1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 120,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "web1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "web1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T11:25:37.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

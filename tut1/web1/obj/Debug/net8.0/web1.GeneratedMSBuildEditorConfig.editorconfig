@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\workspace\FGW-AMD201\amd201-co1102\tut1\web1
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/Demo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/Demo/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/Demo/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/FPT/Greenwich.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRlBUXEdyZWVud2ljaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,6 +60,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/Mobile/AddMobile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9iaWxlXEFkZE1vYmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/Mobile/ListMobile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9iaWxlXExpc3RNb2JpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/Mobile/ViewMobile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9iaWxlXFZpZXdNb2JpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/Shared/Error.cshtml]

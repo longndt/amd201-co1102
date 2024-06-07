@@ -1,0 +1,21 @@
+﻿@model Mobile
+
+<div class="container col-md-4 card text-center">
+    <form asp-controller="Mobile" asp-action="ViewMobile" method="post">
+        <h1>Add new mobile</h1>
+        <input type="text" placeholder="Enter mobile name" required name="Name" />
+        <br /><br />
+        <input type="number" placeholder="Enter mobile price" required name="Price" />
+        <br /><br />
+        <input type="number" placeholder="Enter mobile quantity" required name="Quantity" />
+        <br /><br />
+        <select name="Color">
+            <option value="Red">Red</option>
+            <option value="Green">Green</option>
+            <option value="Blue">Blue</option>
+        </select>
+        <br /><br />
+        <input type="submit" value="Add" />
+    </form>
+</div>
+
