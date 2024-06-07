@@ -23,6 +23,7 @@ namespace web1.Controllers
             return View();
         }
 
+        //URL pattern: localhost:POST/Controller_Name/Action_Name
         //URL: localhost:PORT/Home/Demo
         public IActionResult Demo()
         {

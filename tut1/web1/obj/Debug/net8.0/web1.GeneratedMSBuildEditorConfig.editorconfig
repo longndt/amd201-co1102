@@ -18,6 +18,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\workspace\FGW-AMD201\amd201-co1102\tut1\web1
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/FPT/Greenwich.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRlBUXEdyZWVud2ljaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/Greenwich/CanTho.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JlZW53aWNoXENhblRoby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/Greenwich/DaNang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JlZW53aWNoXERhTmFuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/Greenwich/HaNoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JlZW53aWNoXEhhTm9pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/Greenwich/HCMCity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JlZW53aWNoXEhDTUNpdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/Home/Demo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZW1vLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -45,6 +65,10 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/Shared/_DemoLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EZW1vTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-lx6kyn94v3
 
 [D:/workspace/FGW-AMD201/amd201-co1102/tut1/web1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
