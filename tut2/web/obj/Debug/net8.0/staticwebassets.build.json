@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UqpYZVhdtqnvSSphsnZLJ7VyFjLTsnoEhJPFwNHpSwY=",
+  "Hash": "hMqlKi9bLj9aZY3W939YRXpoOZSgdIKbHix7CTxz+K8=",
   "Source": "web",
   "BasePath": "_content/web",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut2\\web\\wwwroot\\images\\greenwich.png",
+      "SourceId": "web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut2\\web\\wwwroot\\",
+      "BasePath": "_content/web",
+      "RelativePath": "images/greenwich.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\greenwich.png"
     },
     {
       "Identity": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut2\\web\\wwwroot\\js\\site.js",

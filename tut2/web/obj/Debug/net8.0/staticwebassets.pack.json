@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut2\\web\\wwwroot\\images\\greenwich.png",
+      "PackagePath": "staticwebassets\\images\\greenwich.png"
+    },
+    {
       "Id": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut2\\web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
