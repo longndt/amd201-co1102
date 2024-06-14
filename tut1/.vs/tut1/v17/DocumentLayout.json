@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|d:\\workspace\\fgw-amd201\\amd201-co1102\\tut1\\web1\\views\\greenwich\\hcmcity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|solutionrelative:web1\\views\\greenwich\\hcmcity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|d:\\workspace\\fgw-amd201\\amd201-co1102\\tut1\\web1\\views\\home\\demo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|solutionrelative:web1\\views\\home\\demo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|d:\\workspace\\fgw-amd201\\amd201-co1102\\tut1\\web1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|solutionrelative:web1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|d:\\workspace\\fgw-amd201\\amd201-co1102\\tut1\\web1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|solutionrelative:web1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|d:\\workspace\\fgw-amd201\\amd201-co1102\\tut1\\web1\\views\\mobile\\addmobile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|solutionrelative:web1\\views\\mobile\\addmobile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|d:\\workspace\\fgw-amd201\\amd201-co1102\\tut1\\web1\\views\\mobile\\listmobile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|solutionrelative:web1\\views\\mobile\\listmobile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|d:\\workspace\\fgw-amd201\\amd201-co1102\\tut1\\web1\\views\\mobile\\viewmobile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|solutionrelative:web1\\views\\mobile\\viewmobile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|d:\\workspace\\fgw-amd201\\amd201-co1102\\tut1\\web1\\views\\shared\\_demolayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|solutionrelative:web1\\views\\shared\\_demolayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|d:\\workspace\\fgw-amd201\\amd201-co1102\\tut1\\web1\\controllers\\mobilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|solutionrelative:web1\\controllers\\mobilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|d:\\workspace\\fgw-amd201\\amd201-co1102\\tut1\\web1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{82A4B226-F262-4964-BB8E-D8959B181042}|web1\\web1.csproj|solutionrelative:web1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -19,15 +55,130 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HCMCity.cshtml",
+              "DocumentMoniker": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Greenwich\\HCMCity.cshtml",
+              "RelativeDocumentMoniker": "web1\\Views\\Greenwich\\HCMCity.cshtml",
+              "ToolTip": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Greenwich\\HCMCity.cshtml",
+              "RelativeToolTip": "web1\\Views\\Greenwich\\HCMCity.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:01:18.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo.cshtml",
+              "DocumentMoniker": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Home\\Demo.cshtml",
+              "RelativeDocumentMoniker": "web1\\Views\\Home\\Demo.cshtml",
+              "ToolTip": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Home\\Demo.cshtml",
+              "RelativeToolTip": "web1\\Views\\Home\\Demo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:01:18.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "web1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "web1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:01:14.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "web1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "web1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:01:13.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewMobile.cshtml",
+              "DocumentMoniker": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Mobile\\ViewMobile.cshtml",
+              "RelativeDocumentMoniker": "web1\\Views\\Mobile\\ViewMobile.cshtml",
+              "ToolTip": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Mobile\\ViewMobile.cshtml",
+              "RelativeToolTip": "web1\\Views\\Mobile\\ViewMobile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:01:11.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_DemoLayout.cshtml",
+              "DocumentMoniker": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Shared\\_DemoLayout.cshtml",
+              "RelativeDocumentMoniker": "web1\\Views\\Shared\\_DemoLayout.cshtml",
+              "ToolTip": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Shared\\_DemoLayout.cshtml",
+              "RelativeToolTip": "web1\\Views\\Shared\\_DemoLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:01:08.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MobileController.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Controllers\\MobileController.cs",
+              "RelativeDocumentMoniker": "web1\\Controllers\\MobileController.cs",
+              "ToolTip": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Controllers\\MobileController.cs",
+              "RelativeToolTip": "web1\\Controllers\\MobileController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:21:40.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListMobile.cshtml",
+              "DocumentMoniker": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Mobile\\ListMobile.cshtml",
+              "RelativeDocumentMoniker": "web1\\Views\\Mobile\\ListMobile.cshtml",
+              "ToolTip": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Mobile\\ListMobile.cshtml",
+              "RelativeToolTip": "web1\\Views\\Mobile\\ListMobile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T06:21:34.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddMobile.cshtml",
+              "DocumentMoniker": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Mobile\\AddMobile.cshtml",
+              "RelativeDocumentMoniker": "web1\\Views\\Mobile\\AddMobile.cshtml",
+              "ToolTip": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Mobile\\AddMobile.cshtml",
+              "RelativeToolTip": "web1\\Views\\Mobile\\AddMobile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T06:21:33.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "web1\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut1\\web1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "web1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T11:25:37.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T11:25:37.464Z"
             }
           ]
         }
