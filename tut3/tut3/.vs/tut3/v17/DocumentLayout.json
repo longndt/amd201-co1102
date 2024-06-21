@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut3\\tut3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C398485-4DB4-4578-9CD8-B03FF22EB74C}|api\\api.csproj|d:\\workspace\\fgw-amd201\\amd201-co1102\\tut3\\tut3\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C398485-4DB4-4578-9CD8-B03FF22EB74C}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C398485-4DB4-4578-9CD8-B03FF22EB74C}|api\\api.csproj|d:\\workspace\\fgw-amd201\\amd201-co1102\\tut3\\tut3\\api\\controllers\\mobilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C398485-4DB4-4578-9CD8-B03FF22EB74C}|api\\api.csproj|solutionrelative:api\\controllers\\mobilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut3\\tut3\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut3\\tut3\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvx4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:25:35.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MobilesController.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut3\\tut3\\api\\Controllers\\MobilesController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\MobilesController.cs",
+              "ToolTip": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\tut3\\tut3\\api\\Controllers\\MobilesController.cs",
+              "RelativeToolTip": "api\\Controllers\\MobilesController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:24:44.503Z",
+              "EditorCaption": ""
             }
           ]
         }

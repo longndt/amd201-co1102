@@ -27,4 +27,10 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+//1) allow all origins
+//app.UseCors(builder => builder.AllowAnyOrigin());
+
+//2) allow specific origin
+//app.UseCors(builder => builder.WithOrigins("http://localhost:3003"));
+
 app.Run();
