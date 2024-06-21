@@ -15,7 +15,6 @@ namespace web.Models
         public int Quantity { get; set; }   
         public decimal Price { get; set; }
 
-        [Url]
         public string Image { get; set; }
         public string Color { get; set; }   
     }
