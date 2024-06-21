@@ -155,5 +155,29 @@ namespace web.Controllers
         {
             return _context.Laptop.Any(e => e.Id == id);
         }
+
+        public IActionResult SortPriceAsc()
+        {
+            //SQL: SELECT * FROM Laptop ORDER BY Price
+            var laptops = _context.Laptop.OrderBy(lap => lap.Price).ToList();
+            return View("Index", laptops);
+        }
+
+        public IActionResult SortPriceDesc()
+        {
+            //SQL: SELECT * FROM Laptop ORDER BY Price DESC
+            var laptops = _context.Laptop.OrderByDescending(lap => lap.Price).ToList();
+            return View("Index", laptops);
+        }
+
+        [HttpPost]
+        public IActionResult SearchByModel (string keyword)
+        {
+            //SQL (absolute search): SELECT * FROM Laptop WHERE Model == 'keyword'
+
+            //SQL (relative search): SELECT * FROM Laptop WHERE Model LIKE '%keyword%'
+            var laptops = _context.Laptop.Where(lap => lap.Model.Contains(keyword)).ToList();
+            return View("Index", laptops);
+        }
     }
 }
