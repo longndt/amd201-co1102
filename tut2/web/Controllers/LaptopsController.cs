@@ -55,27 +55,12 @@ namespace web.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [Authorize(Roles = "Administrator")]
         [HttpPost]
-        public IActionResult Create(Laptop laptop, IFormFile Image)
+        public async Task<IActionResult> Create(Laptop laptop)
         {
             if (ModelState.IsValid)
             {
-                //code upload image
-                //check valid image or not
-                if (Image != null & Image.Length > 0)
-                {
-                    //add a prefix for new image file name
-                    var fileName = laptop.Id + "_" + Path.GetFileName(Image.FileName);
-                    //set new image location
-                    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images", fileName);
-                    //upload image
-                    using (var stream = new FileStream(filePath, FileMode.Create))
-                    {
-                        Image.CopyTo(stream);   
-                    }
-                    laptop.Image = "/images/" + fileName;
-                }
-                _context.Laptop.Add(laptop);
-                _context.SaveChanges();
+                _context.Add(laptop);
+                await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
             return View(laptop);
