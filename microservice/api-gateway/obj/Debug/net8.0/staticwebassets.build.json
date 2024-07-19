@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WJBKkI9JlfkJB1ui6uipxAclaMGiy7qDZ+boGskDN0g=",
+  "Source": "api_gateway",
+  "BasePath": "_content/api_gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

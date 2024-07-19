@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5AFpwE1J/9xnhb2dqDF1TsSN+PvoaBa1LIkHHCOsLtg=",
+  "Source": "laptop_service",
+  "BasePath": "_content/laptop_service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

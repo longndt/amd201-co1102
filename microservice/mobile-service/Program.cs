@@ -1,4 +1,10 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using mobile_service.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<mobile_serviceContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("mobile_serviceContext") ?? throw new InvalidOperationException("Connection string 'mobile_serviceContext' not found.")));
 
 // Add services to the container.
 

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mobile_service.props" />
+</Project>
