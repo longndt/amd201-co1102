@@ -1,3 +1,8 @@
+//declare Ocelot libraries
+using Ocelot.Cache.CacheManager;
+using Ocelot.DependencyInjection;
+using Ocelot.Middleware;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,19 +12,24 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-var app = builder.Build();
+//config Ocelot gateway
+builder.Configuration.AddJsonFile(
+  "gateway.json",
+  optional: false,
+  reloadOnChange: true
+  );
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+//setup cache manager for Ocelot
+builder.Services.AddOcelot(builder.Configuration).AddCacheManager(x =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+    x.WithDictionaryHandle();
+});
+
+var app = builder.Build();
 
 app.UseHttpsRedirection();
 
-app.UseAuthorization();
-
-app.MapControllers();
+//add Ocelot to container 
+await app.UseOcelot();
 
 app.Run();
