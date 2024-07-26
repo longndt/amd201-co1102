@@ -686,11 +686,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\FGW\\AMD201\\CQRS-Demo\\CQRS_Demo.csproj",
+      "projectUniqueName": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\CQRS-Demo\\CQRS_Demo.csproj",
       "projectName": "CQRS_Demo",
-      "projectPath": "D:\\workspace\\FGW\\AMD201\\CQRS-Demo\\CQRS_Demo.csproj",
+      "projectPath": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\CQRS-Demo\\CQRS_Demo.csproj",
       "packagesPath": "C:\\Users\\GRAM\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\FGW\\AMD201\\CQRS-Demo\\obj\\",
+      "outputPath": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\CQRS-Demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
