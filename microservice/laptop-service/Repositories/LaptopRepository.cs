@@ -15,15 +15,8 @@ namespace laptop_service.Repositories
 
         public List<Laptop> DisplayAllLaptops()
         {
-            try
-            {
-                var laptops = _context.Laptop.ToList();
-                return laptops;
-            }
-            catch (Exception ex)
-            {
-                return null;
-            }
+            var laptops = _context.Laptop.ToList();
+            return laptops;
         }
 
         public Laptop DisplayLaptopById(int id)
@@ -33,7 +26,7 @@ namespace laptop_service.Repositories
                 var laptop = _context.Laptop.FirstOrDefault(lap => lap.Id == id);
                 return laptop;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 return null;
             }

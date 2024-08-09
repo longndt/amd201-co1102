@@ -135,3 +135,4 @@ D:\workspace\FGW-AMD201\amd201-co1102\microservice\laptop-service\obj\Debug\net8
 D:\workspace\FGW-AMD201\amd201-co1102\microservice\laptop-service\obj\Debug\net8.0\laptop_service.pdb
 D:\workspace\FGW-AMD201\amd201-co1102\microservice\laptop-service\obj\Debug\net8.0\laptop_service.genruntimeconfig.cache
 D:\workspace\FGW-AMD201\amd201-co1102\microservice\laptop-service\obj\Debug\net8.0\ref\laptop_service.dll
+D:\workspace\FGW-AMD201\amd201-co1102\microservice\laptop-service\bin\Debug\net8.0\System.Text.Json.dll
