@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\microservice\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|d:\\workspace\\fgw-amd201\\amd201-co1102\\microservice\\react-client\\src\\laptop.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|solutionrelative:react-client\\src\\laptop.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 49,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laptop.jsx",
+              "DocumentMoniker": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\microservice\\react-client\\src\\Laptop.jsx",
+              "RelativeDocumentMoniker": "react-client\\src\\Laptop.jsx",
+              "ToolTip": "D:\\workspace\\FGW-AMD201\\amd201-co1102\\microservice\\react-client\\src\\Laptop.jsx",
+              "RelativeToolTip": "react-client\\src\\Laptop.jsx",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-11T04:03:42.461Z",
+              "EditorCaption": ""
             }
           ]
         }
